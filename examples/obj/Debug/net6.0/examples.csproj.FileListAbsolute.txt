@@ -1,0 +1,15 @@
+/Users/mak/Example/examples/bin/Debug/net6.0/examples
+/Users/mak/Example/examples/bin/Debug/net6.0/examples.deps.json
+/Users/mak/Example/examples/bin/Debug/net6.0/examples.runtimeconfig.json
+/Users/mak/Example/examples/bin/Debug/net6.0/examples.dll
+/Users/mak/Example/examples/bin/Debug/net6.0/ref/examples.dll
+/Users/mak/Example/examples/bin/Debug/net6.0/examples.pdb
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.csproj.AssemblyReference.cache
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.AssemblyInfoInputs.cache
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.AssemblyInfo.cs
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.csproj.CoreCompileInputs.cache
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.dll
+/Users/mak/Example/examples/obj/Debug/net6.0/ref/examples.dll
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.pdb
+/Users/mak/Example/examples/obj/Debug/net6.0/examples.genruntimeconfig.cache
